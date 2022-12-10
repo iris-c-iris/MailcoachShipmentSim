@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Shipment
+comment0.text=\n\ hold\ and\ intializes\ values\ from\ data\ about\ shipments\n\n\ @author\ Iris\ Carrigg\n\ @version\ 10-24-2022\n
+comment1.params=
+comment1.target=Shipment()
+comment1.text=\n\ standard\ constructor\ for\ objects\ of\ class\ Shipment\n\ initializes\ instance\ variables,\ creates\ dummy\ object\ with\ no\ data\n\ @param\ none\n\ @return\ none\n
+comment2.params=id\ destination\ weight\ volume
+comment2.target=Shipment(int,\ java.lang.String,\ double,\ int)
+comment2.text=\n\ constructor\ for\ objects\ of\ class\ Shipment\n\ intializes,\ sets\ instance\ variables\n\ @param\ int,\ String,\ double,\ int\n\ @return\ none\n
+comment3.params=
+comment3.target=java.lang.String\ getDestination()
+comment3.text=\n\ gets\ value\ of\ this.destination\n\ @param\ none\n\ @return\ String\n
+comment4.params=
+comment4.target=double\ getWeight()
+comment4.text=\n\ gets\ value\ of\ this.weight\n\ @param\ none\n\ @return\ double\n
+comment5.params=
+comment5.target=int\ getVolume()
+comment5.text=\n\ gets\ value\ of\ this.volume\n\ @param\ none\n\ @return\ int\n
+comment6.params=
+comment6.target=int\ getId()
+comment6.text=\n\ gets\ value\ of\ this.id\n\ @param\ none\n\ @return\ int\n
+numComments=7

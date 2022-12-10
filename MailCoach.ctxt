@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=MailCoach
+comment1.params=
+comment1.target=MailCoach()
+comment1.text=\n\ standard\ constructor\ for\ objects\ of\ class\ MailCoach\n\ initializes\ instance\ variables,\ creates\ dummy\ object\ with\ no\ data\n\ @param\ none\n\ @return\ none\n
+comment2.params=destination
+comment2.target=MailCoach(java.lang.String)
+comment2.text=\n\ constructor\ for\ objects\ of\ class\ MailCoach\n\ intializes,\ sets\ instance\ variables\n\ @param\ String\n\ @return\ none\n
+comment3.params=
+comment3.target=java.lang.String\ getDestination()
+comment3.text=\n\ gets\ value\ of\ this.destination\n\ @param\ none\n\ @return\ String\n
+comment4.params=
+comment4.target=int\ getVolume()
+comment4.text=\n\ gets\ value\ of\ this.volume\n\ @param\ none\n\ @return\ int\n
+comment5.params=
+comment5.target=double\ getWeight()
+comment5.text=\n\ gets\ value\ of\ this.weight\n\ @param\ none\n\ @return\ double\n
+comment6.params=
+comment6.target=java.util.ArrayList\ getCargo()
+comment6.text=\n\ gets\ value\ of\ this.cargo\n\ @param\ none\n\ @return\ ArrayList<Shipment>\n
+comment7.params=s
+comment7.target=void\ addShipment(Shipment)
+comment7.text=\n\ appends\ shipment\ from\ Shipment\ object\ to\ cargo\n\ increments\ this.weight\ and\ this.volume\ by\ values\ accessed\ from\ Shipment\ object\n\ @param\ Shipment\ object\n\ @return\ void\n
+numComments=8
